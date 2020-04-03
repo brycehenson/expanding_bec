@@ -1,5 +1,5 @@
 # expanding_bec
-** [Bryce M. Henson](https://github.com/brycehenson) **  
+**[Bryce M. Henson](https://github.com/brycehenson)**  
 Numeric and approximate solutions to the expansion of a BEC  
 
 
